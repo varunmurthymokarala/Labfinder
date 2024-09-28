@@ -1,0 +1,135 @@
+[
+  {
+    "id": "d9ebd4b6-5240-47b6-82e0-2681303ef1c7",
+    "providerId": "4",
+    "dateTime": "12:00",
+    "userEmail": "varu@example.com",
+    "reservationCode": "4c9ca1ee-51b4-469a-b9f4-9e6f52a7891a"
+  },
+  {
+    "id": "583c0342-fe07-48db-856f-4d677f3a95c1",
+    "providerId": "4",
+    "dateTime": "12:00",
+    "userEmail": "varu@example.com",
+    "reservationCode": "109751e3-03ec-42a2-af1f-f754a5400a59"
+  },
+  {
+    "id": "debb864f-e287-4ef8-a3e5-771c186adae4",
+    "providerId": "4",
+    "dateTime": "12:00",
+    "userEmail": "example@test.com",
+    "reservationCode": "25cf9161-d63c-4d97-8684-bf44015a4629"
+  },
+  {
+    "id": "b203425c-d6f9-4954-bf8d-ea7411a11b17",
+    "providerId": "4",
+    "dateTime": "16:00",
+    "userEmail": "var@gmail.com",
+    "reservationCode": "6a77bceb-4ad3-4547-8d1d-0d431ba0d64c"
+  },
+  {
+    "id": "55e720a8-6348-4042-a8fe-cfe996ef8258",
+    "providerId": "5",
+    "dateTime": "10:00",
+    "userEmail": "varun@gmail.com",
+    "reservationCode": "5f4026ab-c1af-4925-ac43-13471f4bbaf7"
+  },
+  {
+    "id": "ce540527-5a85-4523-8673-f0d22b142cbb",
+    "providerId": "5",
+    "dateTime": "10:00",
+    "userEmail": "user001@gmail.com",
+    "reservationCode": "053f158d-9d64-430e-87e1-2dfdc5593ac7"
+  },
+  {
+    "id": "6897a56a-a61d-45a6-8e5b-3e0964c8ade3",
+    "providerId": "1",
+    "dateTime": "09:00",
+    "userEmail": "var@gmail.com",
+    "reservationCode": "680a2a8d-2b7b-4d39-9ada-0681df4e37c7"
+  },
+  {
+    "id": "6d261c59-02ac-417d-ac37-e8fb024e0022",
+    "providerId": "1",
+    "dateTime": "09:00",
+    "userEmail": "test@gmail.com",
+    "reservationCode": "3dca4e56-9529-4411-9afd-195c67bdc2c6"
+  },
+  {
+    "id": "62c39991-4d14-42b9-8932-09fee9a2fad6",
+    "providerId": "2",
+    "dateTime": "09:00",
+    "userEmail": "var@xyz.com",
+    "reservationCode": "d44a1c38-7822-4d01-99ef-cf67c29d2d2f"
+  },
+  {
+    "id": "2a2f0df7-f00e-4474-8e19-dc0bdbaa1437",
+    "providerId": "1",
+    "dateTime": "09:00",
+    "userEmail": "varun@gmail.com",
+    "reservationCode": "15c4357d-5fb5-422b-a0b4-66469f703d3a"
+  },
+  {
+    "id": "a18b03af-e158-4e66-9ec3-06eb14c45c47",
+    "providerId": "2",
+    "dateTime": "15:00",
+    "userEmail": "varun@gmail.com",
+    "reservationCode": "f77cb684-b09d-45fd-8698-766b8d9e7189"
+  },
+  {
+    "id": "82a1ba93-8db1-4206-88c1-bee743d60836",
+    "providerId": "1",
+    "dateTime": "09:00",
+    "userEmail": "user@gmail.com",
+    "reservationCode": "c64dbb25-2714-4e33-a6f3-7384297dd02b"
+  },
+  {
+    "id": "dacd3ebe-2b31-422a-8022-7364761be0bc",
+    "providerId": "2",
+    "dateTime": "11:00",
+    "userEmail": "test001@gmail.com",
+    "reservationCode": "b23b4727-f081-45fb-af83-4d8046172570"
+  },
+  {
+    "id": "eb7873cd-58ee-4d06-86d8-5f4ad18f9d0b",
+    "providerId": "4",
+    "dateTime": "09:00",
+    "userEmail": "test003@gmail.com",
+    "reservationCode": "0cfb510f-3df6-48ea-ad07-eef30fd38b90"
+  },
+  {
+    "id": "3b7a8e80-a0a8-4624-8a36-8abfd8e7519b",
+    "providerId": "4",
+    "dateTime": "09:00",
+    "userEmail": "test009@gmail.com",
+    "reservationCode": "9af8b00f-b2e1-4b41-9c0a-1c804d50506e"
+  },
+  {
+    "id": "e2ab9dad-9ddd-4f43-bb41-8c92a09553cd",
+    "providerId": "3",
+    "dateTime": "15:00",
+    "userEmail": "test007@gmail.com",
+    "reservationCode": "daebeeaa-5242-44f1-bd53-7495c0fca308"
+  },
+  {
+    "id": "5845480b-ce2d-44ca-9a6a-478c66f44cad",
+    "providerId": "4",
+    "dateTime": "12:00",
+    "userEmail": "tes@gmail.com",
+    "reservationCode": "6f96bcae-3971-40f3-b8e1-a64e2d5483b8"
+  },
+  {
+    "id": "e0b61fa1-3e69-4cc0-81a7-7b5352c54622",
+    "providerId": "1",
+    "dateTime": "10:00",
+    "userEmail": "testfin@gmail.com",
+    "reservationCode": "0cbaaae4-3030-481f-81fc-190607dc8e1c"
+  },
+  {
+    "id": "4f8cd794-9aca-46fa-8127-b714c2fc5da2",
+    "providerId": "1",
+    "dateTime": "09:00",
+    "userEmail": "tes@gmail.com",
+    "reservationCode": "1197a50c-fd15-468c-b82e-2ed399e74741"
+  }
+]
