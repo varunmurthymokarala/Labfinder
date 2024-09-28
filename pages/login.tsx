@@ -1,7 +1,7 @@
 // pages/login.tsx
 import { useState } from 'react';
 import { useRouter } from 'next/router';
-import '../styles/customStyles.css';  // Import your custom styles
+import '../styles/customStyles.css'; 
 
 const LoginPage = () => {
   const router = useRouter();  // Next.js router instance for navigation
