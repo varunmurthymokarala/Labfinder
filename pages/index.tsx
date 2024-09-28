@@ -1,5 +1,5 @@
 import { useRouter } from 'next/router';
-import './customStyles.css';  // Import custom styles
+import '../styles/customStyles.css';  // Import custom styles
 
 const HomePage = () => {
   const router = useRouter();

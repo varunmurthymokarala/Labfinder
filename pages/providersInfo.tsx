@@ -1,6 +1,6 @@
 import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
-import './customStyles.css';  // Import custom styles
+import '../styles/customStyles.css';  // Import custom styles
 
 interface Provider {
   id: string;
