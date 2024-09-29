@@ -1,7 +1,7 @@
 // pages/login.tsx
 import { useState } from 'react';
 import { useRouter } from 'next/router';
-//import '../styles/customStyles.css'; 
+import '../styles/customStyles.css'; 
 
 const LoginPage = () => {
   const router = useRouter();  // Next.js router instance for navigation
@@ -12,6 +12,11 @@ const LoginPage = () => {
     e.preventDefault();
     // Simulate a login and set the user as logged in
     router.push('/providersInfo');  // Redirect to /providersInfo after login
+  };
+
+  // Navigate back to home page
+  const goToHome = () => {
+    router.push('/');
   };
 
   // Handle registration (mock register)
@@ -30,6 +35,9 @@ const LoginPage = () => {
       <header className="bg-gradient-to-r from-indigo-500 to-purple-600 text-white py-8 text-center">
         <h1 className="text-4xl font-bold">Labfinder(Assessment - Varun Mokarala)</h1>
         <h2 className="mt-2">Your one-stop platform for lab & radiology testing</h2>
+        <button className="btn-secondary" onClick={goToHome}>
+          Return to Home
+        </button>
       </header>
 
 
@@ -69,6 +77,7 @@ const LoginPage = () => {
             <p className="text-gray-600 text-center mt-2">
             Book your next lab or radiology test with ease. Choose from a range of available slots and healthcare providers.
             </p>
+            
           </div>
 
           <div className="feature-card">

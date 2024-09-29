@@ -138,5 +138,12 @@
     "dateTime": "10:00",
     "userEmail": "test003@gmail.com",
     "reservationCode": "031c6e95-10a0-48e1-8556-2b54ea8ebbbb"
+  },
+  {
+    "id": "8de32c2a-eb29-4087-97ce-5056593d880a",
+    "providerId": "1",
+    "dateTime": "14:00",
+    "userEmail": "testvar@gmail.com",
+    "reservationCode": "bd09efb0-dc7e-4217-94ef-90dc8d18a2e1"
   }
 ]
