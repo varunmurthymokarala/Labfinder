@@ -2,16 +2,9 @@
   {
     "id": "d9ebd4b6-5240-47b6-82e0-2681303ef1c7",
     "providerId": "4",
-    "dateTime": "12:00",
+    "dateTime": "16:00",
     "userEmail": "varu@example.com",
     "reservationCode": "4c9ca1ee-51b4-469a-b9f4-9e6f52a7891a"
-  },
-  {
-    "id": "583c0342-fe07-48db-856f-4d677f3a95c1",
-    "providerId": "4",
-    "dateTime": "12:00",
-    "userEmail": "varu@example.com",
-    "reservationCode": "109751e3-03ec-42a2-af1f-f754a5400a59"
   },
   {
     "id": "debb864f-e287-4ef8-a3e5-771c186adae4",
@@ -40,13 +33,6 @@
     "dateTime": "10:00",
     "userEmail": "user001@gmail.com",
     "reservationCode": "053f158d-9d64-430e-87e1-2dfdc5593ac7"
-  },
-  {
-    "id": "6897a56a-a61d-45a6-8e5b-3e0964c8ade3",
-    "providerId": "1",
-    "dateTime": "09:00",
-    "userEmail": "var@gmail.com",
-    "reservationCode": "680a2a8d-2b7b-4d39-9ada-0681df4e37c7"
   },
   {
     "id": "6d261c59-02ac-417d-ac37-e8fb024e0022",
@@ -145,5 +131,19 @@
     "dateTime": "14:00",
     "userEmail": "testvar@gmail.com",
     "reservationCode": "bd09efb0-dc7e-4217-94ef-90dc8d18a2e1"
+  },
+  {
+    "id": "de23258f-2b41-4cbc-9bbe-95f592bd4178",
+    "providerId": "4",
+    "dateTime": "12:00",
+    "userEmail": "testvarun@example.com",
+    "reservationCode": "096ed44b-985a-4ad7-b881-cc250c097173"
+  },
+  {
+    "id": "f493f225-b315-493c-be09-5514c3ea7da9",
+    "providerId": "4",
+    "dateTime": "12:00",
+    "userEmail": "testvarun@example.com",
+    "reservationCode": "d97a8784-cacb-4a85-8ea2-00ccb2250fd0"
   }
 ]
